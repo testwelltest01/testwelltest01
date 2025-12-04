@@ -8,8 +8,8 @@
 
 <h3>👋 안녕하세요! 데이터와 ML에 관심 많은 개발자입니다.</h3>
 
-<a href="https://github.com/[본인아이디]">
-<img src="https://www.google.com/search?q=https://hits.seeyoufarm.com/api/count/incr/badge.svg%3Furl%3Dhttps%253A%252F%252Fgithub.com%252F[본인아이디]%2F[본인아이디]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hits"/>
+<a href="https://github.com/testwelltest01">
+<img src="https://www.google.com/search?q=https://hits.seeyoufarm.com/api/count/incr/badge.svg%3Furl%3Dhttps%253A%252F%252Fgithub.com%252Ftestwelltest01%2Ftestwelltest01]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hits"/>
 </a>
 
 
@@ -31,7 +31,7 @@
 
 
 
-📫 문의: <a href="mailto:email@example.com">email@example.com</a>
+📫 문의: <a href="mailto: testwelltest01@gmail.com">email@example.com</a>
 </p>
 
 <!-- 3. 기술 스택 (뱃지) -->
@@ -71,13 +71,13 @@
 
 <!-- 1행: 요약 통계 + 주 사용 언어 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=[본인아이디]&show_icons=true&theme=radical" height="150" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[본인아이디]&layout=compact&theme=radical&hide=html,css" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=testwelltest01&show_icons=true&theme=radical" height="150" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtestwelltest01&layout=compact&theme=radical&hide=html,css" height="150" alt="languages graph" />
 
 <!-- 2행: 연속 커밋 기록 (Streak) -->
 
 <!-- 잔디 심기 연속 기록을 보여줍니다 -->
 
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[본인아이디]&theme=radical" height="150" alt="streak graph" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dtestwelltest01&theme=radical" height="150" alt="streak graph" />
 
 </div>
