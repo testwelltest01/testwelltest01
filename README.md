@@ -1,6 +1,22 @@
 # Hi there 👋
 
-### 👋 안녕하세요! 데이터 사이언티스트를 꿈꾸는 [최현석]입니다.
+### 👋 안녕하세요! AI 개발자를 꿈꾸는 [최현석]입니다.
+
+<!-- 방문자 수 카운터 (Hits Badge) -->
+
+<!-- url=https://github.com/testwelltest01 -->
+
+📊 Github Stats (활동 통계)
+
+<!-- 전체 커밋 수, 스타 수, 이슈 등을 보여주는 그래프입니다. -->
+
+<!-- username=testwelltest01 -->
+
+🍎 Top Languages (주 사용 언어)
+
+<!-- 내가 작성한 코드 중 어떤 언어 비중이 높은지 보여줍니다. -->
+
+<!-- username=testwelltest01 -->
 
 - 🔭 현재 **AI 개발을 위한 언어(Python)와 Git 사용법**을 익히고 있습니다.
 - 🌱 **MLOps 생명주기와 데이터 버전 관리(DVC)**에 대해 배우고 있습니다.
