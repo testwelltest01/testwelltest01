@@ -1,26 +1,83 @@
-# Hi there 👋
+<!-- 전체 내용을 가운데 정렬합니다 -->
 
-### 👋 안녕하세요! AI 개발자를 꿈꾸는 [최현석]입니다.
+<div align="center">
 
-<!-- 방문자 수 카운터 (Hits Badge) -->
+<!-- 1. 헤더 및 방문자 수 -->
 
-<!-- url=https://github.com/testwelltest01 -->
+<!-- [본인아이디] 2곳을 수정하세요 -->
 
-📊 Github Stats (활동 통계)
+<h3>👋 안녕하세요! 데이터와 ML에 관심 많은 개발자입니다.</h3>
 
-<!-- 전체 커밋 수, 스타 수, 이슈 등을 보여주는 그래프입니다. -->
+<a href="https://github.com/[본인아이디]">
+<img src="https://www.google.com/search?q=https://hits.seeyoufarm.com/api/count/incr/badge.svg%3Furl%3Dhttps%253A%252F%252Fgithub.com%252F[본인아이디]%2F[본인아이디]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hits"/>
+</a>
 
-<!-- username=testwelltest01 -->
 
-🍎 Top Languages (주 사용 언어)
 
-<!-- 내가 작성한 코드 중 어떤 언어 비중이 높은지 보여줍니다. -->
 
-<!-- username=testwelltest01 -->
 
-- 🔭 현재 **AI 개발을 위한 언어(Python)와 Git 사용법**을 익히고 있습니다.
-- 🌱 **MLOps 생명주기와 데이터 버전 관리(DVC)**에 대해 배우고 있습니다.
-- 👯 **머신러닝 기초 스터디**에 관심이 많습니다.
-- 🤔 **Docker**를 이해하는 데 도움이 필요합니다.
-- 📫 이메일: **[testwelltest01@gmail.com]**
-- ⚡ TMI: **[저는 고양이를 좋아합니다 / MBTI는 ENTP입니다]**
+<!-- 2. 소개글 -->
+
+<!-- 본인 상황에 맞게 내용을 수정하세요 -->
+
+<p>
+🌱 <b>Python</b>과 <b>Data Science</b> 기초를 다지고 있습니다.
+
+
+
+
+🚀 <b>MLOps</b> 파이프라인 구축을 목표로 공부 중입니다.
+
+
+
+
+📫 문의: <a href="mailto:email@example.com">email@example.com</a>
+</p>
+
+<!-- 3. 기술 스택 (뱃지) -->
+
+<!-- 더 많은 뱃지는 shield.io 사이트에서 찾을 수 있습니다 -->
+
+<h3>🛠️ My Tech Stack</h3>
+
+<!-- 언어 -->
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite">
+
+<!-- 데이터 & AI -->
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit_Learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite">
+
+<!-- 도구 & MLOps -->
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+
+
+
+
+<!-- 4. GitHub 통계 (Stats) -->
+
+<h3>📊 GitHub Stats</h3>
+
+<!-- [본인아이디] 4곳을 수정하세요 -->
+
+<!-- 테마(theme)를 바꾸고 싶다면 'radical'을 'dracula', 'onedark' 등으로 바꿔보세요 -->
+
+<!-- 1행: 요약 통계 + 주 사용 언어 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=[본인아이디]&show_icons=true&theme=radical" height="150" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[본인아이디]&layout=compact&theme=radical&hide=html,css" height="150" alt="languages graph" />
+
+<!-- 2행: 연속 커밋 기록 (Streak) -->
+
+<!-- 잔디 심기 연속 기록을 보여줍니다 -->
+
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[본인아이디]&theme=radical" height="150" alt="streak graph" />
+
+</div>
